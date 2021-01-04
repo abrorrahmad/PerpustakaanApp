@@ -1,7 +1,7 @@
 # PerpustakaanApp
 Ini adalah aplikasi perpustakaan app menggunakan database sqlite
 
-https://github.com/abrorrahmad/PerpustakaanApp/issues/1#issue-777976874
+<img width="960" alt="ppsapp" src="https://user-images.githubusercontent.com/45890656/103523604-af76b300-4eae-11eb-8f74-465b050c31fe.PNG">
 
 
 
