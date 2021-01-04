@@ -1,6 +1,8 @@
 # PerpustakaanApp
 Ini adalah aplikasi perpustakaan app menggunakan database sqlite
 
+https://github.com/abrorrahmad/PerpustakaanApp/issues/1#issue-777976874
+
 
 
 ## fitur
